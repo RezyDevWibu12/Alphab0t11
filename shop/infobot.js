@@ -27,7 +27,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♉ Github : https://github.com/ErozeBotz
 ♊ Instagram : https://instagram.com/erozetika_
 ♋ Tiktok : tiktok.com/@rokhis290
-♏ WhatsApp : bit.ly/zeeone_ofc
+♏ WhatsApp : https://bit.ly/3kUcg5q
 `}
 
 exports.infobot = infobot
