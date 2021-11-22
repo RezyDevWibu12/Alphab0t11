@@ -21,7 +21,7 @@ return `PAYMENT BY EROZE BOTZ
 3. DANA
 	ㅁ 0858 9315 3775
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama E***E
 
 *📲 PULSA*
 
