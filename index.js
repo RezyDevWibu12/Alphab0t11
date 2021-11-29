@@ -5512,7 +5512,7 @@ reply(`*List Auto Read*\n•> gc\n•> pc`)
 }
 break
 case 'nsfw':
-					    if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
+					    if (!isGroupAdmins) return reply(lang.onlygcAdmin())
 						if (!isGroup) return reply(lang.onlygc()) 
 						if (args.length < 1) return reply(lang.anjawaUdhOon(command))
 						if (args[0] === 'on') {
