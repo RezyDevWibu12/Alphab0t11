@@ -1,18 +1,18 @@
 {
-    "self_mode": false,
-	"autobio": false,
+    "self_mode": true,
+	"autobio": true,
 	"antihidetag": true,
-	"user_register": false,
-	"anti_delete" : false,
+	"user_register": true,
+	"anti_delete" : true,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "628985397156",
-	"ownerNumberr": "628985397156",
-	"cr": "@ErozeBotz",
-	"ownername": "Eroze XD",
-	"botname":"Eroze Botz",
+	"ownerNumber": "6289527058808",
+	"ownerNumberr": "62895270588080",
+	"cr": "@FrenzyBotz",
+	"ownername": "Rezy XD",
+	"botname":"Frenzy Botz",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @Eroze XD"
+	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @RezyGans XD"
 }
